@@ -1,0 +1,9 @@
+1, First, How are you?@ 
+2, Second, I am wonderful. Thanks for asking. So what is going with you here?@
+3, Third, What kind of book it is?@
+4, Fourth, what else do you like most to read?@
+5, Fifth, Do like drama, novel or poetry?@
+6, Sixth, What type of novel you like to read?@
+7, Seventh, What is the name of the novel you read recently?@
+8, Eighth, Who is your favorite novelist?@
+9, Ninth, Good to talk to you.@
